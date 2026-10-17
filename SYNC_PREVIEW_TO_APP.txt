@@ -1,0 +1,1 @@
+Edit preview/mizzy-bistro-pos-fixed.html and copy the same content to app/src/main/assets/index.html before building, so the preview and APK stay identical.
